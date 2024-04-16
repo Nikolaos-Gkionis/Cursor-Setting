@@ -31,14 +31,16 @@
     "activityBar.border": "#282a36",
     "sideBarTitle.foreground": "#3d3d3d",
     "sideBar.background": "#cacaca",
-    "sideBar.foreground": "#3d3d3d",
+    "sideBar.foreground": "#5f5f5f",
     "sideBarSectionHeader.background": "#cacaca",
     "sideBarSectionHeader.foreground": "#3d3d3d",
     "sideBarSectionHeader.border": "#393939",
+    "list.activeSelectionBackground": "#393838",
+    "list.inactiveSelectionBackground": "#717171",
     "editor.selectionBackground": "#707173",
     "sideBar.border": "#454545",
     "statusBar.background": "#29292a",
-    "statusBar.foreground": "#535353",
+    "statusBar.foreground": "#aaa9a9",
     "statusBar.border": "#ffffff1f",
     "statusBarItem.hoverBackground": "#ffffff1f",
     "editorCursor.foreground": "#ffcc00",
@@ -58,5 +60,4 @@
 
   }
 }
-
 
