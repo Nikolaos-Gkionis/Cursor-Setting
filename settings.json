@@ -24,7 +24,7 @@
   "workbench.iconTheme": "vscode-icons-mac",
   "workbench.colorTheme": "One Monokai",
    "workbench.colorCustomizations": {
-    "gitDecoration.untrackedResourceForeground": "#8c3617",
+    "gitDecoration.untrackedResourceForeground": "#f66f00",
     "gitDecoration.modifiedResourceForeground": "#006eff",
     "activityBar.background": "#a4a4a4",
     "activityBar.foreground": "#3d3d3d",
