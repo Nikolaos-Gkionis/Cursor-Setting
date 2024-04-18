@@ -23,6 +23,17 @@
   "editor.stickyScroll.maxLineCount": 10,
   "workbench.iconTheme": "vscode-icons-mac",
   "workbench.colorTheme": "One Monokai",
+  "editor.fontFamily": "CaskaydiaMono NFM",
+  "editor.fontSize": 12,
+  "editor.lineHeight": 16,
+  "editor.letterSpacing": 0.3,
+  "files.trimTrailingWhitespace": true,
+  "editor.fontWeight": "400",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.cursorBlinking": "blink",
+  "editor.renderWhitespace": "boundary",
+  "terminal.integrated.fontFamily": "monospace",
    "workbench.colorCustomizations": {
     "gitDecoration.untrackedResourceForeground": "#f66f00",
     "gitDecoration.modifiedResourceForeground": "#006eff",
@@ -51,10 +62,10 @@
 
     // The foreground color of the title bar.
     "titleBar.activeForeground": "#333333",
-  
+
     // The background color of the title bar when the window is inactive.
     "titleBar.inactiveBackground": "#656363",
-  
+
     // The foreground color of the title bar when the window is inactive.
     "titleBar.inactiveForeground": "#666666"
 
