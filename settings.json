@@ -72,3 +72,78 @@
   }
 }
 
+// No sidebar
+
+{
+  "editor.formatOnSave": true,
+  "workbench.sideBar.location": "right",
+  "editor.rulers": [150],
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorWidth": 5,
+  "workbench.editor.enablePreview": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "git.autofetch": true,
+  "editor.minimap.enabled": false,
+  "vsicons.dontShowNewVersionMessage": true,
+  "cSpell.userWords": ["govuk", "organisations"],
+  "editor.inlineSuggest.enabled": true,
+  "git.ignoreMissingGitWarning": true,
+  "git.confirmSync": false,
+  "vscode_custom_css.imports": [""],
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "git.enableSmartCommit": true,
+  "editor.stickyScroll.scrollWithEditor": false,
+  "editor.stickyScroll.maxLineCount": 10,
+  "workbench.iconTheme": "vscode-icons-mac",
+  "workbench.colorTheme": "Tokyo Night",
+  "editor.fontFamily": "CaskaydiaMono NFM"
+  /*
+  "editor.fontSize": 12,
+  "editor.lineHeight": 16,
+  "editor.letterSpacing": 0.3,
+  "files.trimTrailingWhitespace": true,
+  "editor.fontWeight": "400",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.cursorBlinking": "blink",
+  "editor.renderWhitespace": "boundary",
+  "terminal.integrated.fontFamily": "monospace",
+   "workbench.colorCustomizations": {
+    "gitDecoration.untrackedResourceForeground": "#f66f00",
+    "gitDecoration.modifiedResourceForeground": "#006eff",
+    "sideBarTitle.foreground": "#3d3d3d",
+    "sideBar.background": "#cacaca",
+    "sideBar.foreground": "#5f5f5f",
+    "sideBarSectionHeader.background": "#cacaca",
+    "sideBarSectionHeader.foreground": "#3d3d3d",
+    "sideBarSectionHeader.border": "#393939",
+    "list.activeSelectionBackground": "#393838",
+    "list.inactiveSelectionBackground": "#717171",
+    "editor.selectionBackground": "#707173",
+    "sideBar.border": "#454545",
+    "statusBar.background": "#29292a",
+    "statusBar.foreground": "#aaa9a9",
+    "statusBar.border": "#ffffff1f",
+    "statusBarItem.hoverBackground": "#ffffff1f",
+    "editorCursor.foreground": "#ffcc00",
+    "editor.lineHighlightBackground": "#7979ac20",
+    "editorLineNumber.foreground": "#0c8987",
+    "editorLineNumber.activeForeground": "#ffcc00",
+    "titleBar.activeBackground": "#c2c2c2",
+
+    // The foreground color of the title bar.
+    "titleBar.activeForeground": "#333333",
+
+    // The background color of the title bar when the window is inactive.
+    "titleBar.inactiveBackground": "#656363",
+
+    // The foreground color of the title bar when the window is inactive.
+    "titleBar.inactiveForeground": "#666666"
+*/
+  }
+
+
+
